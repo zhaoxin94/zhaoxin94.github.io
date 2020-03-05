@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science and Technology, Jilin University. My research interests are computer vision and machine learning.
 
-## Interests
+## Research Interests
 - Domain Adaptation
 - Meta Learning
 - Lifelong Learning
