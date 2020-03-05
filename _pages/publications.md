@@ -1,16 +1,7 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[Adversarial Learning and Interpolation Consistency for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8913529)</b> <br> <b>Xin Zhao</b>, Shengsheng Wang <br> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i>
